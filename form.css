@@ -1,0 +1,62 @@
+body
+{
+	background-image: linear-gradient(to right,#ff5722,#ff9800);
+	margin-top: 50px !important;
+
+}
+.register-center
+{
+	border: none;
+	background: #f8f8f8;
+	border-top-left-radius: 20% 50%;
+	border-bottom-left-radius: 20% 50%;
+	border-top-right-radius: 20% 50%;
+	border-bottom-right-radius: 20% 50%;
+	padding: 50px;
+
+
+}
+.register-center h2
+{
+	text-align: center;
+	margin-bottom: 10px;
+	color: #555;
+	font-size: 
+}
+.register-form
+{
+	padding: 30px;
+}
+.register-form .btn-primary
+{
+	border-radius: 20px;
+	border: none;
+	width: 120px;
+	background: #ff9800;
+	font-weight: 600;
+	color: #fff;
+	margin-top: 20px;
+	padding: 10px;
+}
+.register-form .btn-primary:hover
+{
+	background: #ff5722;
+
+}
+.register-form .form-control
+{
+	width: 50%;
+	margin-left: 300px;
+}
+.footer
+{
+	text-align: center;
+	background-image: linear-gradient(to right, #a517ba,#5f1782);
+	color: #fff;
+	margin-bottom: 0px ;
+	margin-top: 30px;
+}
+.footer .fa-chrome
+{
+	padding-right: 10px;
+}
